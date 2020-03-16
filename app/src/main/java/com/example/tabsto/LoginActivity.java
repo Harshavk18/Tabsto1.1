@@ -1,4 +1,4 @@
-package com.example.tabsto;a
+package com.example.tabsto;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
